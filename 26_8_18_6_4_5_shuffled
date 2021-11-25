@@ -1,0 +1,46 @@
+Period one shuffled solution
+Number of students: 26
+Number of girls/boys: 8/18
+
+Event: 1
+Group 1: G4, G7, B4, B9, Host: B4
+Group 2: G2, G3, B1, B11, B2, Host: G2
+Group 3: G5, G6, B18, B10, Host: G5
+Group 4: G1, G8, B8, B13, Host: G8
+Group 5: B12, B5, B3, B17, B14, Host: B14
+Group 6: B16, B7, B6, B15, Host: B7
+Event: 2
+Group 1: G4, G1, B12, B7, B2, Host: B12
+Group 2: G5, G3, B17, B15, Host: G3
+Group 3: G8, G6, B9, B6, B14, Host: B9
+Group 4: G7, G2, B16, B8, Host: G7
+Group 5: B5, B13, B10, B11, Host: B5
+Group 6: B18, B4, B1, B3, Host: B1
+Event: 3
+Group 1: G4, G3, B18, B6, B13, Host: B6
+Group 2: G5, G1, B5, B8, Host: G5
+Group 3: G7, G6, B17, B11, Host: B11
+Group 4: G8, G2, B7, B3, Host: G8
+Group 5: B16, B12, B1, B9, Host: B16
+Group 6: B4, B15, B10, B14, B2, Host: B2
+Event: 4
+Group 1: G4, G8, B1, B10, Host: G4
+Group 2: G6, G3, B8, B3, Host: G3
+Group 3: G5, G7, B7, B13, B14, Host: B13
+Group 4: G1, G2, B9, B17, B15, Host: B15
+Group 5: B4, B12, B6, B11, Host: B4
+Group 6: B16, B18, B5, B2, Host: B18
+Event: 5
+Group 1: G4, G5, B16, B3, B11, Host: B16
+Group 2: G1, G3, B10, B14, Host: G1
+Group 3: G7, G8, B18, B12, B15, Host: B12
+Group 4: G2, G6, B4, B13, Host: G2
+Group 5: B1, B7, B9, B5, Host: B9
+Group 6: B8, B17, B6, B2, Host: B8
+Event: 6
+Group 1: G4, G6, B5, B15, Host: G6
+Group 2: G8, G3, B16, B4, B17, Host: B17
+Group 3: G5, G2, B12, B10, Host: B10
+Group 4: G7, G1, B1, B6, Host: B1
+Group 5: B18, B7, B8, B11, B14, Host: B11
+Group 6: B9, B3, B13, B2, Host: B3
